@@ -1,0 +1,5 @@
+link youtube video "Packet Tracer":
+http://bit.ly/packet_tracer_hcmus
+
+link drive video "Packet Tracer"
+http://bit.ly/demo_packet_tracer
